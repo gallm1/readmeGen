@@ -33,12 +33,13 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['MIT','BSD 3', 'Apache 2.0', 'None'],
+        choices: ['Apache 2.0', 'Boost 1.0', 'MIT', 'None'],
         message: 'License Used:',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'badges',
+        choices: ['Apache 2.0', 'Boost 1.0', 'MIT', 'None'],
         message: 'Badges:',
     },
     {
