@@ -1,8 +1,8 @@
-# a
+# Professional-README-Gen
 
 ## Description
 
-b
+This is an application that will generate README.md files through a series of prompts.
 
 ## Table of Contents
 
@@ -16,15 +16,15 @@ b
 
 ## Installation
 
-c
+npm init -y and npm i inquirer
 
 ## Usage
 
-d
+Answer the series of prompts or select the options from the list, using the arrow key and press enter after each response.
 
 ## Credits
 
-e
+None
 
 ## License
 
@@ -36,13 +36,13 @@ undefined
 
 ## Features
 
-f
+Used js and nodejs and npm inquirer package
 
 ## How to Contribute
 
-g
+Contact me at michael.galloway9@gmail.com
 
 ## Tests
 
-h
+None
 
